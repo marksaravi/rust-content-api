@@ -1,0 +1,16 @@
+- [x] Clarify Project Requirements
+  - Rust REST API using Actix-web, with endpoints for health, listing items, and adding items.
+- [x] Scaffold the Project
+  - Project files created: README.md, Cargo.toml, src/main.rs
+- [ ] Customize the Project
+  - Initial implementation complete. Further customization can be added as needed.
+- [x] Install Required Extensions
+  - No extensions required for Rust/Actix-web.
+- [ ] Compile the Project
+  - Next step: run `cargo run` to compile and launch the server.
+- [ ] Create and Run Task
+  - No custom VS Code tasks required; use `cargo run`.
+- [ ] Launch the Project
+  - Launch with `cargo run`.
+- [x] Ensure Documentation is Complete
+  - README.md created and up to date.

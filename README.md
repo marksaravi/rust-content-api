@@ -32,7 +32,5 @@ The server will start on http://127.0.0.1:8080
   curl -X POST -H "Content-Type: application/json" -d '{"name": "Item1"}' http://127.0.0.1:8080/items
   ```
 
-## Installing Firebase 14.16.0 in local (Node 22.14.0)
-- https://firebase.google.com/docs/cli#install-cli-mac-linux
-- ```curl -sL firebase.tools | bash```
-- ```firebase login```
+## sample calls to the Firestore database
+- https://firestore.googleapis.com/v1/projects/content-api-by-firestore/databases/digital-publishing/documents/schemas
